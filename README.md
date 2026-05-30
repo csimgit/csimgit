@@ -2,8 +2,8 @@
 
 ### About Me
 
-AI/ML and Data Engineering leader with 20+ years of experience in building scalable data platforms and enterprise analytics solutions, now specializing in Generative AI, LLM applications, and full-stack AI systems.
-Hands-on experience designing and deploying end-to-end AI solutions, including RAG pipelines, agentic AI systems, predictive models, and anomaly detection frameworks, using FastAPI, Streamlit, LangChain, and vector databases (Chroma, Pinecone).
+Data and Analytics professional with experience in business intelligence, data engineering, and advanced analytics across enterprise environments. 
+Currently focused on applying machine learning, Generative AI, and agentic AI frameworks to develop scalable and impactful AI-driven solutions.
 Proven ability to lead teams, deliver large-scale projects, and drive measurable business impact through AI-driven automation and data solutions.
 
 Currently focusing on:
