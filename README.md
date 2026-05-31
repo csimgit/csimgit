@@ -2,7 +2,7 @@
 
 ### About Me
 
-Data and Analytics professional with experience in business intelligence, data engineering, and advanced analytics across enterprise environments. 
+Data and Analytics professional with experience in data science, data engineering, business intelligence, data migrations across enterprise environments. 
 Currently focused on applying machine learning, Generative AI, and agentic AI frameworks to develop scalable and impactful AI-driven solutions.
 Proven ability to lead teams, deliver large-scale projects, and drive measurable business impact through AI-driven automation and data solutions.
 
@@ -99,6 +99,7 @@ End-to-end OCR + NLP system capable of extracting structured text and insights f
 
 #### ML Fraud Detection Pipeline
 End-to-end machine learning pipeline for credit card fraud detection project demonstrates a Enterprise-level ML system, EDA, SMOTE, ML models, HPT, ROC etc
+
 
 
 ---
