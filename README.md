@@ -74,6 +74,18 @@ Currently focusing on:
 
 ---
 
+
+
+## Project Portfolio
+
+Explore my complete portfolio of AI, Machine Learning, Data Analytics, Business Intelligence, and Data Engineering project details.
+
+➡️ **[View Project Showcase](https://github.com/csimgit/project-showcase)**
+
+
+---
+
+
 ### Featured Projects
 
 #### AI Trade Surveillance Platform
@@ -103,6 +115,8 @@ End-to-end machine learning pipeline for credit card fraud detection project dem
 
 
 ---
+
+
 
 ### Areas of Interest
 
