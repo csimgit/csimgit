@@ -76,7 +76,7 @@ Currently focusing on:
 
 
 
-## Project Portfolio
+### Project Portfolio
 
 Explore my complete portfolio of AI, Machine Learning, Data Analytics, Business Intelligence, and Data Engineering project details.
 
@@ -128,3 +128,10 @@ End-to-end machine learning pipeline for credit card fraud detection project dem
 - Trade Surveillance
 - Risk & Fraud Analytics
 - Enterprise AI Solutions
+
+
+---
+
+
+
+
